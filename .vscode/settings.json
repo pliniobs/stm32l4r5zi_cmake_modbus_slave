@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "odobnnodebsp.h": "c",
+        "stm32l4xx_hal.h": "c",
+        "modbus_usart.h": "c",
+        "task.h": "c",
+        "modbus_server.h": "c"
+    }
+}

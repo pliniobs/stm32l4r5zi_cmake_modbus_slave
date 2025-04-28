@@ -1,0 +1,5 @@
+/media/plinio/WORKSPACE/STM32_Projects/stm32l4r5zi_cmake_modbus_slave/CMakeFiles/stm32l4r5zi_cmake_modbus_slave.dir
+/media/plinio/WORKSPACE/STM32_Projects/stm32l4r5zi_cmake_modbus_slave/CMakeFiles/edit_cache.dir
+/media/plinio/WORKSPACE/STM32_Projects/stm32l4r5zi_cmake_modbus_slave/CMakeFiles/rebuild_cache.dir
+/media/plinio/WORKSPACE/STM32_Projects/stm32l4r5zi_cmake_modbus_slave/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/media/plinio/WORKSPACE/STM32_Projects/stm32l4r5zi_cmake_modbus_slave/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
