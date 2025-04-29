@@ -4,6 +4,10 @@
         "stm32l4xx_hal.h": "c",
         "modbus_usart.h": "c",
         "task.h": "c",
-        "modbus_server.h": "c"
-    }
+        "modbus_server.h": "c",
+        "functional": "c",
+        "freertos.h": "c"
+    },
+    "docwriter.style": "Doxygen",
+    "cortex-debug.variableUseNaturalFormat": false
 }
